@@ -1,0 +1,16 @@
+-we have began by modifying each region in the header area by aligning them in their proper postions and have applied all the necesary css to give them a good look.
+-Then we have properly setup the background so as it becomes as attractive as possible for our customers to be able to get an ease in accessing all the sections of the website
+without any delay and trouble.
+
+-here we will make a short section where one will find small boxes which include the online shopping, save, donations, customer support, support and other user-friendly features to connnect easily with the  website.
+
+
+-this new e-commerce website will include featured products in the main home page
+ - this will include products like; trousers,shirts, t-shirts, shorts, jeans, sweaters, sweatpants, sweatshirts, sweaters, jackets and shoes.
+   In this home-page feature list we will continually change the items accordingly to the items with most views and reviews.
+
+
+-
+-then there will be a log-in and sign-up section where users of the website can use more features of the website like to be able to make orders, contact us and share their information.
+-in the next section we will include the main tags of what this website if for, how you can connect with our team of developers in making this website better in the future by shharing your reviews and comments.
+-the last part is a small footer with detail about the developers and the development team.
